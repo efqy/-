@@ -1,5 +1,7 @@
 # -
-~网址太多，暂时寄存这里
+
+整理了一天，发现如果有“深蓝阅读”就不必仔细看了
+
 ##一、CTF类（排名不分先后）：
 ###1、全球CTF比赛wp大全：https://github.com/ctfs/
 ###2、高手的ctf wp博客：http://www.l-team.org/
@@ -38,8 +40,9 @@
 ###9、钟馗之眼：http://www.zoomeye.org/
 ###10、python处理数据包：http://ju.outofmemory.cn/entry/251408
 ###13、webshell大全：https://github.com/tennc/webshell
-###11:代码审计：http://bigsec.net/one/security/PHP-vulnerability-auditing.html#_20
-###12：在线生成免杀马：http://www.zjjv.com/phpshell/
+###11、代码审计：http://bigsec.net/one/security/PHP-vulnerability-auditing.html#_20
+###12、在线生成免杀马：http://www.zjjv.com/phpshell/
+###13、wallfans：https://gochrome.info/
 
 
 ##四、论坛（排名不分先后）
